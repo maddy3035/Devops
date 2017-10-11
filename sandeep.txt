@@ -1,2 +1,5 @@
-this is a program to finf the file
+this is a program to find the file
+
+I am going to add 2 more lines to then file 
+this to check the git checkout command1
 
